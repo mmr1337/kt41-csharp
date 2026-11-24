@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Базовая нагрузка": {
+      "commandName": "Project"
+    },
+    "Нагрузка ×100": {
+      "commandName": "Project",
+      "commandLineArgs": "--stress"
+    }
+  }
+}
